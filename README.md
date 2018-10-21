@@ -3,7 +3,19 @@
 [![npm version](https://badge.fury.io/js/react-pose-15.svg)](https://badge.fury.io/js/react-pose-15)
 [![Build Status](https://travis-ci.org/ItsJonQ/react-pose-15.svg?branch=master)](https://travis-ci.org/ItsJonQ/react-pose-15)
 
-## React (15) components for the Pose animation system
+> React (15) components for the Pose animation system
+
+
+## Installation
+
+```
+npm install --save react-pose-15
+```
+
+This library has a `peerDependencies` listing of `react` (version `15` or `16`).
+
+
+## Links
 
 - [React Pose](https://github.com/Popmotion/popmotion/tree/master/packages/react-pose)
 - [Homepage](https://popmotion.io/pose)
