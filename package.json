@@ -1,7 +1,7 @@
 {
   "name": "react-pose-15",
   "version": "0.0.1",
-  "description": "A declarative animation library for React 15",
+  "description": "A declarative animation library for React 15+",
   "main": "./lib/index.js",
   "module": "./dist/react-pose-15.es.js",
   "types": "./lib/index.d.ts",
@@ -30,7 +30,7 @@
     "react animation",
     "react 15"
   ],
-  "author": "Matt Perry",
+  "author": "Jon Quach",
   "originalAuthor": "Matt Perry",
   "license": "MIT",
   "presets": [
