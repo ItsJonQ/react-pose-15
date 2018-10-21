@@ -3,6 +3,7 @@
 stories
 tmp
 .babelrc
+.travis.yml
 rollup.config.js
 tsconfig.jest.json
 tsconfig.json
